@@ -1,7 +1,7 @@
 # Youtube
-A Deep Learning-Based Approach for Inappropriate Content Detection and Classification of YouTube Videos
+A Deep Learning-Based Approach for Inappropriate Content Detection and Classification of Videos
 
-The exponential growth of videos on YouTube has attracted billions of viewers among which the majority belongs to a young demographic.
+The exponential growth of videos on YouTube and other platforms has attracted billions of viewers among which the majority belongs to a young demographic.
 Malicious uploaders also find this platform as an opportunity to spread upsetting visual content, such as using animated cartoon videos to share inappropriate content with children.
 Therefore, an automatic real-time video content filtering mechanism is highly suggested to be integrated into social media platforms.
 In this study, a novel deep learning-based architecture is proposed for the detection and classification of inappropriate content in videos. 
