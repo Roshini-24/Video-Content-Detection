@@ -1,4 +1,4 @@
-# Youtube
+# Video Content Detection Model
 A Deep Learning-Based Approach for Inappropriate Content Detection and Classification of Videos
 
 The exponential growth of videos on YouTube and other platforms has attracted billions of viewers among which the majority belongs to a young demographic.
